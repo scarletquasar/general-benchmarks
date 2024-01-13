@@ -10,7 +10,8 @@ Each benchmark will be composing by the following parts:
 > [!IMPORTANT]  
 > Benchmark methods can vary from benchmark to benchmark and will try to use the most reliable possible tools.
 > Some benchmarks, mainly the specialized ones, are affected by cold starts and other variables so the methods
-> used in them may also vary.
+> used in them may also vary. We have a curated list of methods and tecniques that can be used to create a benchmark
+> and it is listed below. It's important to note that the list can also vary with future updates.
 
 # Summary
 
