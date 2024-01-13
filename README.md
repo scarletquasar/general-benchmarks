@@ -1,5 +1,5 @@
 # ⏱️ General Benchmarks
-Repository containing benchmarks organized by feature. Each benchmark will contain its equivalent in different technologies. The benchmarks are not limited to a single programming language, or even to a single framework and are focused on general purpose.
+Repository containing benchmarks organized by tech and discussions around it. The benchmarks are not limited to a single programming language, or even to a single framework and are focused on general purpose.
 
 ## Benchmark Format
 Each benchmark will be composing by the following parts:
