@@ -15,7 +15,7 @@ Each benchmark will be composing by the following parts:
 
 ## Contributing
 
-You can contribute with meaningful benchmarks, fixes and suggestions to see a detailed information about contrbuting, click [here](CONTRIBUTING.MD). 
+You can contribute with meaningful benchmarks, fixes and suggestions to see a detailed information about contrbuting, click [here](./CONTRIBUTING.md). 
 
 > [!TIP]
 > Take care about you submissions, meaningful and concise benchmarks are valued and too sparse submissions won't be accepted. Try to explain the objective
