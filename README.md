@@ -10,3 +10,4 @@ Each benchmark will be composing by the following parts:
 # Summary
 
 <img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" align="left" width="50"> <h2>Dotnet</h2>
+<img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png?v=638179441440000000" align="left" width="50"> <h2>Node.js</h2>
