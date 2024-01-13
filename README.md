@@ -7,4 +7,6 @@ Each benchmark will be composing by the following parts:
 - Code that was used to gather the benchmark information
 - Benchmark results table with data extracted from the code execution
 
-## Summary
+# Summary
+
+<img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" align="left" width="50"> <h2>Dotnet</h2>
