@@ -13,6 +13,11 @@ Each benchmark will be composing by the following parts:
 > used in them may also vary. We have a curated list of methods and tecniques that can be used to create a benchmark
 > and it is listed below. It's important to note that the list can also vary with future updates.
 
+| Tool | Link |
+| ---- | ---- |
+| hyperfine - a command line benchmarking tool | https://github.com/sharkdp/hyperfine |
+| BenchmarkDotNet - powerful .net library for benchmarking | https://github.com/dotnet/BenchmarkDotNet |
+| performance.now() - Node.js core library | - |
 ## Contributing
 
 You can contribute with meaningful benchmarks, fixes and suggestions to see a detailed information about contrbuting, click [here](./CONTRIBUTING.md). 
