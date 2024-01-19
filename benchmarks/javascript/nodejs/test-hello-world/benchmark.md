@@ -1,4 +1,4 @@
-# Nodejs - Test Hello World Benchmark
+# Nodejs - Test Hello World Benchmark - performance.now()
 
 A test benchmark with a console.log called with the "Hello World" string.
 
